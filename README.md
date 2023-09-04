@@ -2,7 +2,7 @@
 
 ## Общее описание
 
-<img src="https://github.com/jet-isc/DAF-framework/assets/137043865/2a8e90a9-8c10-43b9-b4eb-d02260ee5b50" width="600" />
+<img src="https://github.com/jet-isc/DAF-framework/blob/main/images/1.png" width="600" />
 
 При внедрении практик и процесса безопасной разработки ПО первый и самый
 главный вопрос, с которым сталкиваются компании -- **«С чего начать?».**
