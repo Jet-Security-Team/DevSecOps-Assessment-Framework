@@ -55,17 +55,17 @@ DevSecOps Assessment Framework (DAF) -- это фреймворк оценки �
 
 DAF состоит из трех компонентов:
 
-![image](https://github.com/jet-isc/DAF-framework/assets/137043865/e4243d70-a29b-42cf-9e4d-d38b0622f080)
+![image](https://github.com/jet-isc/DAF-framework/blob/main/images/comp1.png)
 
 
 Ниже мы расскажем про них более подробно
 
-## Пиратская карта <img src="https://github.com/jet-isc/DAF-framework/assets/137043865/2009c4fd-49ee-47bb-a600-df1e233a26c2" width="75" />
+## Пиратская карта <img src="https://github.com/jet-isc/DAF-framework/blob/main/images/pir1.png" width="75" />
 
 
 
-![image](https://github.com/jet-isc/DAF-framework/assets/137043865/515c6854-3d5c-47a0-8a12-0a3a6ea7fd11) 
-![image](https://github.com/jet-isc/DAF-framework/assets/137043865/b9e0ad13-115a-4d21-8713-bbd04dce4dae)
+![image](https://github.com/jet-isc/DAF-framework/blob/main/images/tech1.png) 
+![image](https://github.com/jet-isc/DAF-framework/blob/main/images/proc1.png)
 
 
 Пиратская карта -- это верхнеуровневый взгляд на весь фреймворк. Она
@@ -76,7 +76,7 @@ DAF состоит из трех компонентов:
 Блок Технологий включает в себя наборы практик, которые делятся по
 средам разработки.
 
-## Таблица оценки и тепловая матрица <img src="https://github.com/jet-isc/DAF-framework/assets/137043865/e9284759-4fdb-4ddd-8501-37bbad5ee631" width="75" />
+## Таблица оценки и тепловая матрица <img src="https://github.com/jet-isc/DAF-framework/blob/main/images/tepl1.png" width="75" />
 
 
 **Таблица оценки** содержит различные параметры и метрики, которые
@@ -127,9 +127,9 @@ DAF состоит из трех компонентов:
 >  Можно по прежнему что-то улучшить и повысить зрелость
 
 
-## Пирамида зрелости <img src="https://github.com/jet-isc/DAF-framework/assets/137043865/e7ae8b75-efc6-45b1-bad2-701d9bc1ac4d" width="75" />  (Будет выложена позднее. Следите за анонсами!)
+## Пирамида зрелости <img src="https://github.com/jet-isc/DAF-framework/blob/main/images/pyr1.png" width="75" />  (Будет выложена позднее. Следите за анонсами!)
 
-![image](https://github.com/jet-isc/DAF-framework/assets/137043865/15a9eaf2-b558-40ce-b023-181ee704d94a)
+![image](https://github.com/jet-isc/DAF-framework/blob/main/images/pyr2.png)
 
 
 
@@ -202,5 +202,5 @@ DAF состоит из трех компонентов:
 
 -   Наш опыт, а также наших заказчиков.
 
-![image](https://github.com/jet-isc/DAF-framework/assets/137043865/5ab94599-e7ad-4968-9718-44c674b1e609)
+![image](https://github.com/jet-isc/DAF-framework/blob/main/images/dep.png)
 
