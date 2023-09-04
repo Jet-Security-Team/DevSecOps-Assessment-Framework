@@ -2,7 +2,7 @@
 
 ## Общее описание
 
-<img src="https://github.com/jet-isc/DAF-framework/blob/main/images/1.png" width="600" />
+<img src="https://github.com/jet-isc/DAF-framework/blob/main/images/1.png" width="800" />
 
 При внедрении практик и процесса безопасной разработки ПО первый и самый
 главный вопрос, с которым сталкиваются компании -- **«С чего начать?».**
@@ -30,9 +30,9 @@
 безопасной разработки ПО в компании, нашей командой было принято решение
 разработать собственный фреймворк.
 
-DevSecOps Assessment Framework (DAF) -- это фреймворк оценки зрелости
+DevSecOps Assessment Framework (DAF) - это фреймворк оценки зрелости
 процесса безопасной разработки ПО. В данном случае под словом фреймворк
-мы понимаем набор инструментов, принципов, правил, инструментов,
+мы понимаем набор инструментов, принципов, правил,
 руководств и процессов, которые помогают создавать безопасное ПО.
 
 Основные задачи, которые ставились при создании фреймворка:
@@ -60,15 +60,17 @@ DAF состоит из трех компонентов:
 
 Ниже мы расскажем про них более подробно
 
-## Пиратская карта <img src="https://github.com/jet-isc/DAF-framework/blob/main/images/pir1.png" width="75" />
+## Пиратская карта <img src="https://github.com/jet-isc/DAF-framework/blob/main/images/pir1.png" width="150" />
 
 
+### Пирасткая карта домен технологи
+<img src="https://github.com/jet-isc/DAF-framework/blob/main/images/tech1.png" width="900" />
 
-![image](https://github.com/jet-isc/DAF-framework/blob/main/images/tech1.png) 
-![image](https://github.com/jet-isc/DAF-framework/blob/main/images/proc1.png)
+### Пирасткая карта домен процессы
+<img src="https://github.com/jet-isc/DAF-framework/blob/main/images/proc1.png" width="900" />
 
 
-Пиратская карта -- это верхнеуровневый взгляд на весь фреймворк. Она
+Пиратская карта - это верхнеуровневый взгляд на весь фреймворк. Она
 включает в себя все аспекты процесса безопасной разработки с этапа
 планирования до перевода ПО в промышленную эксплуатацию. Карта делится
 на два блока: Технологии и Процессы.
@@ -76,14 +78,20 @@ DAF состоит из трех компонентов:
 Блок Технологий включает в себя наборы практик, которые делятся по
 средам разработки.
 
-## Таблица оценки и тепловая матрица <img src="https://github.com/jet-isc/DAF-framework/blob/main/images/tepl1.png" width="75" />
-
+## Таблица оценки и тепловая матрица <img src="https://github.com/jet-isc/DAF-framework/blob/main/images/tepl1.png" width="200" />
+### Таблица оценки
+<img src="https://github.com/jet-isc/DAF-framework/blob/main/images/tepl2.png" width="800" />
 
 **Таблица оценки** содержит различные параметры и метрики, которые
 позволят компании определить уровень зрелости для конкретного поддомена
 безопасной разработки (процессов или инструментов). Для определения
 соответствия поддомена конкретному уровню, необходимо выполнение одного
 или нескольких практик.
+
+### Тепловая матрица
+<img src="https://github.com/jet-isc/DAF-framework/blob/main/images/tepl3.png" width="800" />
+
+
 
 **Тепловая матрица** показывает степень выполнения практик в рамках
 определенного уровня в процентах. Например, если для полного выполнения
@@ -127,9 +135,9 @@ DAF состоит из трех компонентов:
 >  Можно по прежнему что-то улучшить и повысить зрелость
 
 
-## Пирамида зрелости <img src="https://github.com/jet-isc/DAF-framework/blob/main/images/pyr1.png" width="75" />  (Будет выложена позднее. Следите за анонсами!)
+## Пирамида зрелости <img src="https://github.com/jet-isc/DAF-framework/blob/main/images/pyr1.png" width="200" />  (Будет выложена позднее. Следите за анонсами!)
 
-![image](https://github.com/jet-isc/DAF-framework/blob/main/images/pyr2.png)
+<img src="https://github.com/jet-isc/DAF-framework/blob/main/images/pyr2.png" width="900" />
 
 
 
@@ -202,5 +210,5 @@ DAF состоит из трех компонентов:
 
 -   Наш опыт, а также наших заказчиков.
 
-![image](https://github.com/jet-isc/DAF-framework/blob/main/images/dep.png)
+<img src="https://github.com/jet-isc/DAF-framework/blob/main/images/dep.png" width="900" />
 
