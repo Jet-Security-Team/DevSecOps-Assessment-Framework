@@ -192,4 +192,4 @@ DevSecOps Assessment Framework — это фреймворк оценки зре
 - [Telegram: DevSecOps_Assessment_Framework](https://t.me/DevSecOps_Assessment_Framework)
 - [Mail: daf@jet.su](mailto:daf@jet.su)
 
-Эта информация нам крайне пригодится для понимания охвата и “полезности” нашего фреймворка.
+Эта информация нам крайне пригодится для понимания охвата и полезности нашего фреймворка.
