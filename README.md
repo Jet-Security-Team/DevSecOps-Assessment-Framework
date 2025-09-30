@@ -140,6 +140,7 @@ DevSecOps Assessment Framework — это фреймворк оценки зре
     - [DevSecOps Maturity Model (DSOMM)](https://dsomm.owasp.org/);
     - [Microsoft Security Development Lifecycle (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl);
     - [ГОСТ Р 58412-2019. РАЗРАБОТКА БЕЗОПАСНОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ. Угрозы безопасности информации при разработке программного обеспечения](https://docs.cntd.ru/document/1200164529);
+    - [МЕТОДИЧЕСКИЙ ДОКУМЕНТ ЦБ РФ. ПРОФИЛЬ ЗАЩИТЫ прикладного программного обеспечения автоматизированных систем и приложений кредитных организаций и некредитных финансовых организаций](https://cbr.ru/content/document/file/132666/inf_note_feb_0422.pdf);
     - [A Model For Measuring Improvement Of Security In Continuous Integration pipelines](http://essay.utwente.nl/88916/1/Akujobi_EEMCS_faculty%20%28002%29.pdf);
     - [Open Source Software (OSS) Secure Supply Chain (SSC) Framework Simplified Requirements](https://github.com/microsoft/oss-ssc-framework/blob/main/specification/framework.md).
 - Практики от Center for Internet Security (CIS):
