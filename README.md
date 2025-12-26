@@ -11,6 +11,7 @@
     - [Кирилламида (Пирамида зрелости)](#кирилламида)
 - [Как пользоваться фреймворком](#как-пользоваться-фреймворком)
 - [Материалы, используемые при создании](#материалы-используемые-при-создании)
+- [English version](#english-version)
 - [Связаться с нами](#связаться-с-нами)
 
 ## Введение
@@ -70,7 +71,7 @@ DevSecOps Assessment Framework — это фреймворк оценки зре
 
 Этот раздел содержит различные практики, а также критерии оценки (”Верно” и “Неверно” для нулевого уровня, а также “Выполняется”, “Частично выполняется”, “Не выполняется” и "Не применимо" для практик 1го и последующих уровней зрелости). Практики сгруппированы в поддомены, а поддомены - в домены. Для соответствия  конкретному уровню зрелости может потребоваться выполнение одной или нескольких практик.
 
-[Практики в формате markdown](DAF.md)
+[Практики в формате markdown](DAF_public_RU.md)
 
 ### Результаты аудита
 
@@ -135,6 +136,11 @@ DevSecOps Assessment Framework — это фреймворк оценки зре
     - Aqua Cloud Native Security Maturity Model;
     - [Secrets Management Maturity Model](https://blog.gitguardian.com/a-maturity-model-for-secrets-management/).
 - Наш опыт, а также опыт наших заказчиков.
+
+## English version
+
+Good news everyone!
+We are pleased to announce that we've made available [DevSecOps Assessment Framework (DAF) in English](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework-ENG/releases/tag/2025.12.25) to reach out to the International community.
 
 ## Связаться с нами
 
